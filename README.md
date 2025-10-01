@@ -7,8 +7,8 @@ Me Chamo Lucas Corrêa e Silva tenho 20 anos, estou na FATEC em Indaiatuba estud
 ---
 ### :computer: Mídias sociais:
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/daniel-brito-da-silva-júnior-20b83b315)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/DanielBritodaSJunior)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel.junior_9)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/LucasCorrêaLK)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imlucas_3p)
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -103,7 +103,38 @@ Me Chamo Lucas Corrêa e Silva tenho 20 anos, estou na FATEC em Indaiatuba estud
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="csharp" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="cplusplus" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<img 
+    align="left" 
+    alt="java" 
+    title="java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 <br/>
 <br/>
 
