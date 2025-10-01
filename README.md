@@ -5,6 +5,11 @@
 Me Chamo Lucas Corrêa e Silva tenho 20 anos, estou na FATEC em Indaiatuba estudando Desenvolvimento de Software em multiplatadorma, irei me formar em junho de 2027. Porém atualmente busco me especializar em C#. Estou disponivel para estagios/trabalhos no período da tarde, noite e madrugada. Caso queira entrar em contato comigo me chame em meu e-mail (Lucascorrea0408@gmail.com)
 
 ---
+### :computer: Mídias sociais:
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/daniel-brito-da-silva-júnior-20b83b315)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/DanielBritodaSJunior)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel.junior_9)
+
 
 ### 🤖 Linguagens e Tecnologias
 
