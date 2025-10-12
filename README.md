@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me Chamo Lucas Corrêa e Silva tenho 20 anos, estou na FATEC em Indaiatuba estudando Desenvolvimento de Software em multiplatadorma, irei me formar em junho de 2027. Porém atualmente busco me especializar em C#. Estou disponivel para estagios/trabalhos no período da tarde, noite e madrugada. Caso queira entrar em contato comigo me chame em meu e-mail (Lucascorrea0408@gmail.com)
+Me Chamo Lucas Corrêa e Silva tenho 20 anos, estou na FATEC em Indaiatuba estudando Desenvolvimento de Software  multiplataforma, irei me formar em junho de 2027. Porém atualmente busco me especializar em C#. Estou disponivel para estagios/trabalhos no período da tarde, noite e madrugada. Caso queira entrar em contato comigo me chame em meu e-mail (Lucascorrea0408@gmail.com)
 
 ---
 ### :computer: Mídias sociais:
